@@ -1,0 +1,13 @@
+C:\Users\s_mar\Melissa\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.exe
+C:\Users\s_mar\Melissa\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.deps.json
+C:\Users\s_mar\Melissa\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.runtimeconfig.json
+C:\Users\s_mar\Melissa\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.runtimeconfig.dev.json
+C:\Users\s_mar\Melissa\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.dll
+C:\Users\s_mar\Melissa\EvenNums\bin\Debug\netcoreapp3.1\EvenNums.pdb
+C:\Users\s_mar\Melissa\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.csprojAssemblyReference.cache
+C:\Users\s_mar\Melissa\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.AssemblyInfoInputs.cache
+C:\Users\s_mar\Melissa\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.AssemblyInfo.cs
+C:\Users\s_mar\Melissa\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.csproj.CoreCompileInputs.cache
+C:\Users\s_mar\Melissa\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.dll
+C:\Users\s_mar\Melissa\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.pdb
+C:\Users\s_mar\Melissa\EvenNums\obj\Debug\netcoreapp3.1\EvenNums.genruntimeconfig.cache
